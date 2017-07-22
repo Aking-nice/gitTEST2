@@ -3,3 +3,4 @@ test gitTESET2 -2
 test gitTESET3 -master
 test gitTESET2 -3 form other
 test gitTESET2 -4 form other
+master
